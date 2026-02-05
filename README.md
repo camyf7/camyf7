@@ -6,9 +6,9 @@
 <h2 align="center">💜 Olá, eu sou <strong>Camilly Ferreira</strong> — Estudante de Desenvolvimento Front-End!</h2>
 
 <p align="center">
-✨ Apaixonada por criar interfaces criativas e experiências únicas com <strong>React</strong> e <strong>JavaScript</strong>.<br>
-🚀 Trabalhando em projetos como <strong>EchoMusic</strong>, sempre explorando novas tecnologias.<br>
-💡 “Sempre aprendendo, criando e evoluindo!” 💫
+  Apaixonada por criar interfaces criativas e experiências únicas com <strong>React</strong> e <strong>JavaScript</strong>.<br>
+  Trabalhando em projetos como <strong>EchoMusic</strong>, sempre explorando novas tecnologias.<br>
+ “Sempre aprendendo, criando e evoluindo!” 💫
 </p>
 
 ---
