@@ -27,11 +27,11 @@
 
 ---
 
-### 🎯 Projetos em Destaque
+###  Projetos em Destaque
 
-💿 **EchoMusic** — Plataforma interativa de descoberta e compartilhamento de músicas  
-🐶 **Oh my dog** — E-commerce Pet Shop com design responsivo e moderno  
-🌐 **Portfólio Pessoal** — [Acesse aqui](https://camyf7.github.io/portifoliocamilly.github.io/)
+ **EchoMusic** — Plataforma interativa de descoberta e compartilhamento de músicas  
+ **Oh my dog** — E-commerce Pet Shop com design responsivo e moderno  
+ **Portfólio Pessoal** — [Acesse aqui](https://camyf7.github.io/portifoliocamilly.github.io/)
 
 ---
 
@@ -52,5 +52,5 @@
 ---
 
 <p align="center">
-  <strong>💜 Feito com amor e muito código 💻</strong>
+  <strong> Feito com amor e muito código 💻</strong>
 </p>
