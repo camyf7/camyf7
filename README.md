@@ -3,7 +3,7 @@
 
 <!-- Banner animado -->
 <div align="center">
-  <img src="https://i.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="100%" alt="Banner animado"/>
+  <img src="https://i.giphy.com/media/KoTEoSgWJFK6KKIFVP/giphy.gif" width="100%" alt="Banner animado"/>
 </div>
 
 <!-- Nome com efeito de digitação  -->
@@ -58,12 +58,13 @@
 </h2>
 
 <div align="center">
+<div align="center">
   <!-- Primeira linha -->
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-  <br>
   
   <!-- Segunda linha -->
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
@@ -110,16 +111,6 @@
   </tr>
 </table>
 
-<!-- Linguagens mais usadas -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px" height="40px"/>
-  <span style="color: #00CED1;"> Linguagens Mais Usadas</span>
-</h2>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=camyf7&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF6B8B&text_color=ffffff&langs_count=8" alt="Top Languages" height="180"/>
-</div>
-
 <!-- Contato -->
 <h2 align="center">
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40px" height="40px"/>
@@ -153,16 +144,5 @@
   <h3>
     <span style="color: #FF6B8B;">💖</span>
     Feito com muito carinho e código
-    <span style="color: #9370DB;"></span>
   </h3>
-  
- 
-  
-  <!-- Snake Game Animation -->
-  <img src="https://raw.githubusercontent.com/camyf7/camyf7/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
-</div>
-
-<!-- Estatísticas extras -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=camyf7&theme=radical&no-frame=true&row=2&column=4" alt="GitHub Trophies"/>
 </div>
