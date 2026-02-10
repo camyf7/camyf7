@@ -9,7 +9,7 @@
 <!-- Nome com efeito de digitação  -->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=FF6B8B&center=true&vCenter=true&width=600&lines=✨+Camilly+Ferreira+✨;🌺+Front-End+Developer+🌺;💜+Criando+com+coração+💜" alt="Typing animation"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=FF6B8B&center=true&vCenter=true&width=600&lines=+Camilly+Ferreira+;+Front-End+Developer+;" alt="Typing animation"/>
   </a>
 </h1>
 
@@ -153,7 +153,7 @@
   <h3>
     <span style="color: #FF6B8B;">💖</span>
     Feito com muito carinho e código
-    <span style="color: #9370DB;">💜</span>
+    <span style="color: #9370DB;"></span>
   </h3>
   
  
