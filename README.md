@@ -9,14 +9,14 @@
 <!-- Nome com efeito de digitação  -->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=FF6B8B&center=true&vCenter=true&width=600&lines=+Camilly+Ferreira+;+Front-End+Developer+;" alt="Typing animation"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=FF6B8B&center=true&vCenter=true&width=600&lines=+Hello+Word+;+I'm+Camilly+;" alt="Typing animation"/>
   </a>
 </h1>
 
-<!-- Subtítulo animado FUNCIONAL -->
+<!-- Subtítulo animado -->
 <h3 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=9370DB&center=true&vCenter=true&width=800&lines=Transformando+código+em+experiências+encantadoras!;+Estudante+de+Desenvolvimento+Front-End;+Apaixonada+por+UI+&&+UX+e+animações" alt="Subtítulo animado"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=9370DB&center=true&vCenter=true&width=800&lines=Front-end+Developer+!;+Apaixonada+por+UI+&&+UX+e+animações" alt="Subtítulo animado"/>
   </a>
 </h3>
 
@@ -87,19 +87,19 @@
 <table align="center" style="width: 100%; max-width: 800px;">
   <tr>
     <td align="center" width="33%">
-      <h3>🎵 EchoMusic</h3>
+      <h3> EchoMusic</h3>
       <p>Plataforma musical com React & API</p>
       <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" alt="React"/>
       <img src="https://img.shields.io/badge/API-FF6B8B" alt="API"/>
     </td>
     <td align="center" width="33%">
-      <h3>🐶 Oh My Dog</h3>
+      <h3> Oh My Dog</h3>
       <p>E-commerce Pet Shop responsivo</p>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JS"/>
       <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3" alt="CSS3"/>
     </td>
     <td align="center" width="33%">
-      <h3>💼 Portfólio</h3>
+      <h3> Portfólio</h3>
       <p>Meu espaço criativo online</p>
       <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5" alt="HTML5"/>
       <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3" alt="CSS3"/>
@@ -146,3 +146,6 @@
     Feito com muito carinho e código
   </h3>
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&animation=fadeIn&section=header"/>
+
