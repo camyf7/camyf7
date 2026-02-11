@@ -3,7 +3,7 @@
 
 <!-- Banner animado -->
 <div align="center">
-  <img src="https://i.giphy.com/media/KoTEoSgWJFK6KKIFVP/giphy.gif" width="100%" alt="Banner animado"/>
+  <img src="https://i.pinimg.com/originals/a3/d6/97/a3d69709008b07c99616d5c78df28bd7.gif" width="100%" alt="Banner animado"/>
 </div>
 
 <!-- Nome com efeito de digitação  -->
