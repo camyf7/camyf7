@@ -9,26 +9,19 @@
 <!-- Nome com efeito de digitação  -->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=FF6B8B&center=true&vCenter=true&width=600&lines=+Hello+Word+;+I'm+Camilly+;" alt="Typing animation"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=FF6B8B&center=true&vCenter=true&width=600&lines=+Hello+Word,+;+I'm+Camilly+♡;" alt="Typing animation"/>
   </a>
 </h1>
 
 <!-- Subtítulo animado -->
 <h3 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=9370DB&center=true&vCenter=true&width=800&lines=Front-end+Developer+!;+Apaixonada+por+UI+&&+UX+e+animações" alt="Subtítulo animado"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=9370DB&center=true&vCenter=true&width=800&lines=Front-end+Developer!;+Apaixonada+por+UI/UX" alt="Subtítulo animado"/>
   </a>
 </h3>
 
-<!-- Badges animadas com contadores -->
 
-
-
-<!-- Cards com animação de entrada -->
-
- 
-
-<!-- Seção Sobre Mim com efeito -->
+<!-- Seção Sobre Mim -->
 <h2 align="center">
  
   <span style="color: #FF6B8B;">Sobre Mim</span>
@@ -43,11 +36,11 @@
   border-right: 4px solid #9370DB;
 ">
   <p style="font-size: 18px; line-height: 1.8;">
-    💖 <strong>18 anos</strong> | 🌸 <strong>tech girl</strong> | 🎯 <strong>Foco: React & JavaScript</strong><br><br>
+    ✭ <strong>18 anos</strong> | ✭ <strong>tech girl</strong> | ✭ <strong>Foco: React & JavaScript</strong><br><br>
     Apaixonada por criar interfaces que não apenas funcionam, mas <strong>encantam</strong>!<br>
     Acredito que código bonito resulta em experiências memoráveis <br>
     Atualmente mergulhada em <strong>animações CSS</strong> e <strong>design systems</strong>!<br><br>
-    <em style="color: #9370DB;">"Cada linha de código é uma pincelada na tela digital"</em> 
+    <em style="color: #9370DB;">"Crafting thoughtful digital experiences"</em> 
   </p>
 </div>
 
@@ -59,6 +52,7 @@
 
 <div align="center">
 <div align="center">
+  
   <!-- Primeira linha -->
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
@@ -75,12 +69,12 @@
   
   <!-- Terceira linha -->
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-
 </div>
+<br>
+<br>
 
 <!-- Projetos em destaque -->
 <h2 align="center">
-  <img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="40px" height="40px"/>
   <span style="color: #FFD700;"> Projetos em Destaque</span>
 </h2>
 
@@ -105,7 +99,7 @@
       <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3" alt="CSS3"/>
       <br>
       <a href="https://camyf7.github.io/portifoliocamilly.github.io/">
-        <strong>🌐 Visitar Site</strong>
+        <strong> Visitar Site</strong>
       </a>
     </td>
   </tr>
@@ -139,13 +133,5 @@
 <br>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling"/>
 
-<!-- Footer -->
-<div align="center">
-  <h3>
-    <span style="color: #FF6B8B;">💖</span>
-    Feito com muito carinho e código
-  </h3>
-</div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&animation=fadeIn&section=header"/>
 
