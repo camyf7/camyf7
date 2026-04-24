@@ -87,18 +87,18 @@
       <img src="https://img.shields.io/badge/API-FF6B8B" alt="API"/>
     </td>
     <td align="center" width="33%">
-      <h3> Oh My Dog</h3>
-      <p>E-commerce Pet Shop responsivo</p>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JS"/>
+      <h3>Mar em Alerta</h3>
+      <p>Sistema de alerta comunitário para eventos costeiros</p>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
       <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3" alt="CSS3"/>
     </td>
     <td align="center" width="33%">
       <h3> Portfólio</h3>
       <p>Meu espaço criativo online</p>
-      <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5" alt="HTML5"/>
-      <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3" alt="CSS3"/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
       <br>
-      <a href="https://camyf7.github.io/portifoliocamilly.github.io/">
+      <a href="https://camillyferreira.netlify.app/#home">
         <strong> Visitar Site</strong>
       </a>
     </td>
@@ -124,8 +124,6 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   
-  <a href="https://github.com/camyf7">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </div>
 
