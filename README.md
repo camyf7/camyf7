@@ -1,133 +1,89 @@
-<!-- Linha decorativa animada no topo -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&animation=fadeIn&section=header"/>
-
-<!-- Banner animado -->
 <div align="center">
-  <img src="https://i.pinimg.com/originals/a3/d6/97/a3d69709008b07c99616d5c78df28bd7.gif" width="100%" alt="Banner animado"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,50:1a1a2e,100:16213e&height=140&section=header&text=Camilly%20Ferreira&fontSize=42&fontColor=ffffff&fontAlignY=55&desc=Front-end%20Developer&descSize=16&descAlignY=78&descColor=aaaaaa&animation=fadeIn" width="100%"/>
+
 </div>
 
-<!-- Nome com efeito de digitação  -->
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=FF6B8B&center=true&vCenter=true&width=600&lines=+Hello+Word,+;+I'm+Camilly+♡;" alt="Typing animation"/>
-  </a>
-</h1>
-
-<!-- Subtítulo animado -->
-<h3 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=9370DB&center=true&vCenter=true&width=800&lines=Front-end+Developer!;+Apaixonada+por+UI/UX" alt="Subtítulo animado"/>
-  </a>
-</h3>
-
-
-<!-- Seção Sobre Mim -->
-<h2 align="center">
- 
-  <span style="color: #FF6B8B;">Sobre Mim</span>
-</h2>
-
-<div align="center" style="
-  background: linear-gradient(45deg, #ff6b8b22, #9370db22);
-  padding: 20px;
-  border-radius: 15px;
-  margin: 20px 0;
-  border-left: 4px solid #FF6B8B;
-  border-right: 4px solid #9370DB;
-">
-  <p style="font-size: 18px; line-height: 1.8;">
-    ✭ <strong>18 anos</strong> | ✭ <strong>tech girl</strong> | ✭ <strong>Foco: React & JavaScript</strong><br><br>
-    Apaixonada por criar interfaces que não apenas funcionam, mas <strong>encantam</strong>!<br>
-    Acredito que código bonito resulta em experiências memoráveis <br>
-    Atualmente mergulhada em <strong>animações CSS</strong> e <strong>design systems</strong>!<br><br>
-    <em style="color: #9370DB;">"Crafting thoughtful digital experiences"</em> 
-  </p>
-</div>
-
-<!-- Tech Stack com badges coloridos -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="30px" height="30px"/>
-  <span style="color: #20B2AA;"> Minha Stack Tecnológica</span>
-</h2>
-
-<div align="center">
-<div align="center">
-  
-  <!-- Primeira linha -->
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  
-  <!-- Segunda linha -->
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-  <br>
-  
-  <!-- Terceira linha -->
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-</div>
-<br>
 <br>
 
-<!-- Projetos em destaque -->
-<h2 align="center">
-  <span style="color: #FFD700;"> Projetos em Destaque</span>
-</h2>
+<table width="100%">
+<tr>
+<td width="55%" valign="top">
 
-<table align="center" style="width: 100%; max-width: 800px;">
-  <tr>
-    <td align="center" width="33%">
-      <h3> EchoMusic</h3>
-      <p>Plataforma musical com React & API</p>
-      <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" alt="React"/>
-      <img src="https://img.shields.io/badge/API-FF6B8B" alt="API"/>
-    </td>
-    <td align="center" width="33%">
-      <h3>Mar em Alerta</h3>
-      <p>Sistema de alerta comunitário para eventos costeiros</p>
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-      <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3" alt="CSS3"/>
-    </td>
-    <td align="center" width="33%">
-      <h3> Portfólio</h3>
-      <p>Meu espaço criativo online</p>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-      <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-      <br>
-      <a href="https://camillyferreira.netlify.app/#home">
-        <strong> Visitar Site</strong>
-      </a>
-    </td>
-  </tr>
+### `about`
+
+```typescript
+const camilly = {
+  age       : 18,
+  role      : "Front-end Developer",
+  location  : "Brasil 🇧🇷",
+  focus     : ["React", "Next.js", "UI/UX"],
+  currently : "Animações CSS & Design Systems",
+  belief    : "Código bonito → experiências memoráveis",
+};
+```
+
+Apaixonada por construir interfaces que não apenas funcionam, mas **encantam**. Cada detalhe visual importa do espaçamento à microanimação.
+
+</td>
+<td width="45%" valign="top" align="center">
+
+<img src="https://www.image2url.com/r2/default/gifs/1778702016243-b56a9695-5f2b-4f33-9fb7-62d23f550c31.gif"/>
+
+</td>
+</tr>
 </table>
 
-<!-- Contato -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40px" height="40px"/>
-  <span style="color: #FF1493;"> Conecte-se Comigo</span>
-</h2>
+---
 
-<div align="center">
-  <a href="https://www.instagram.com/camy.f7/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  
-  <a href="https://www.linkedin.com/in/camillydev/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  
-  <a href="mailto:camillyf691@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  
-  </a>
+### `stack`
+
+<div>
+
+![Next.js](https://img.shields.io/badge/Next.js-ffffff?style=flat-square&logo=nextdotjs&logoColor=000000)
+![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=flat-square&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=flat-square&logo=css3&logoColor=1572B6)
+![Tailwind](https://img.shields.io/badge/Tailwind-0d1117?style=flat-square&logo=tailwindcss&logoColor=38B2AC)
+![Figma](https://img.shields.io/badge/Figma-0d1117?style=flat-square&logo=figma&logoColor=F24E1E)
+![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=F05032)
+![VS Code](https://img.shields.io/badge/VS%20Code-0d1117?style=flat-square&logo=visualstudiocode&logoColor=007ACC)
+
 </div>
 
+---
+
+### `projects`
+
+| Projeto | Descrição | Stack |
+|---|---|---|
+| **EchoMusic** | Plataforma musical com consumo de API | `React` `API REST` |
+| **Mar em Alerta** | Sistema de alertas para eventos costeiros | `HTML5` `CSS3` |
+| **Portfólio** | Espaço criativo pessoal — [visitar →](https://camillyferreira.netlify.app/#home) | `Next.js` `TypeScript` |
+
+---
+
+### `activity`
+
+<div align="center">
 
 
 
+</div>
 
+---
+
+### `contact`
+
+<div>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/camillydev/)
+[![Instagram](https://img.shields.io/badge/Instagram-0d1117?style=flat-square&logo=instagram&logoColor=E4405F)](https://www.instagram.com/camy.f7/)
+[![Gmail](https://img.shields.io/badge/Gmail-0d1117?style=flat-square&logo=gmail&logoColor=D14836)](mailto:camillyf691@gmail.com)
+[![Portfólio](https://img.shields.io/badge/Portfólio-0d1117?style=flat-square&logo=vercel&logoColor=ffffff)](https://camillyferreira.netlify.app/#home)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0f0f0f&height=80&section=footer&animation=fadeIn" width="100%"/>
