@@ -87,7 +87,7 @@ Espaço criativo pessoal com foco em performance e estética. Animações suaves
 ![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=nextdotjs&logoColor=fff)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6)
 
-[![→ visitar](https://img.shields.io/badge/→%20visitar-0d1117?style=flat-square&logo=vercel&logoColor=ffffff)](https://camillyferreira.netlify.app/#home)
+[![→ visitar](https://img.shields.io/badge/→%20visitar-0d1117?style=flat-square&logo=vercel&logoColor=ffffff)](https://camillydev.netlify.app/)
 
 </td>
 <td width="50%" valign="top">
